@@ -6,7 +6,7 @@
         {{ $t('selection.subtitle') }}
       </SectionSubtitle>
     </header>
-    <div class="grid md:grid-cols-3 gap-8">
+    <div class="grid md:grid-cols-3 gap-8 w-full max-w-7xl mx-auto">
       <SelectionCard class="bg-brand-blue text-white">
         <template #icon>
           <SvgHand class="h-12" />

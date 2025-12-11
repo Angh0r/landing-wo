@@ -1,6 +1,8 @@
 <template>
   <section class="px-4 lg:px-16 bg-slate-100 py-32">
-    <div class="grid gap-16 lg:grid-cols-[auto_1fr] items-end">
+    <div
+      class="grid gap-16 lg:grid-cols-[auto_1fr] items-end w-full max-w-7xl mx-auto"
+    >
       <h2 class="text-8xl lg:text-[120px] font-black text-black">FAQ</h2>
       <div class="grid gap-16">
         <p class="text-3xl font-semibold">
