@@ -6,6 +6,28 @@
     "faq": "FAQ"
   },
   "become_a_tester": "Zostań Testerem",
+  "benefits": {
+    "title": "Dlaczego warto dołączyć do testów Warehouse.Online?",
+    "subtitle": "Zobacz jakie korzyści czekają na Ciebie gdy dołączysz do testów naszej platformy!",
+    "cards": {
+      "blue": {
+        "title": "Wcześniejszy dostęp do platformy",
+        "description": "Jako tester otrzymasz dostęp do Warehouse.Online przed oficjalnym uruchomieniem. Dzięki temu szybciej sprawdzisz, jak platforma może wesprzeć Twoje operacje logistyczne."
+      },
+      "orange": {
+        "title": "Wpływ na kierunek rozwoju",
+        "description": "Twoje uwagi i potrzeby realnie przełożą się na roadmapę produktu. Testując platformę, pomagasz nam dopasować rozwiązanie do codziennych wyzwań firm takich jak Twoja."
+      },
+      "white": {
+        "title": "Preferencyjne warunki komercyjne",
+        "description": "Za udział w testach odwdzięczymy się lepszymi warunkami w przyszłych pakietach komercyjnych. Oznacza to korzystniejsze stawki i bardziej dopasowane opcje współpracy."
+      },
+      "dark": {
+        "title": "Dodatkowe benefity dla aktywnych",
+        "description": "Najbardziej zaangażowani testerzy mogą liczyć na wcześniejszy dostęp do nowych funkcji i dodatkowe punkty lojalnościowe. Otrzymają też dostęp do wybranych danych analitycznych, które pomogą lepiej zarządzać przestrzenią i towarem."
+      }
+    }
+  },
   "about": {
     "title": "Rozwiązanie jutra dostępne dla Ciebie już dziś!",
     "subtitle": "Czyli dlaczego Warehouse.Online to prawdziwy game changer w branży logistycznej.",
