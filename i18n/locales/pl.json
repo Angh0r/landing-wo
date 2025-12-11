@@ -6,6 +6,28 @@
     "faq": "FAQ"
   },
   "become_a_tester": "Zostań Testerem",
+  "faq": {
+    "title": "FAQ",
+    "description": "Zebraliśmy najczęstsze pytania, które pomagają zrozumieć, jak działa nasza platforma, na czym polega test MVP i co możesz zyskać, dołączając do programu.",
+    "items": {
+      "q1": {
+        "label": "Czym jest Warehouse.Online?",
+        "content": "Warehouse.Online to pierwsza platforma, która działa jak Booking.com dla logistyki B2B. Łączy operatorów magazynowych i firmy szukające przestrzeni - umożliwiając wyszukiwanie, porównanie, natychmiastowy wgląd w cenę, rezerwację i zarządzanie kontraktami online.Cały proces jest prosty, szybki i przejrzysty - bez pośredników, bez długich negocjacji."
+      },
+      "q2": {
+        "label": "Na czym polega wersja MVP?",
+        "content": "MVP to pierwsza działająca wersja platformy, która pozwala przetestować kluczowe funkcje:wyszukiwarkę i marketplace,natychmiastowy transparentny pricing,prosty proces bookingu,zarządzanie ofertami i kontraktami.MVP nie jest jeszcze pełnym produktem - to etap, w którym wspólnie z testerami dopracowujemy UX, przejrzystość cenników i automatyzację procesów."
+      },
+      "q3": {
+        "label": "Kto może zostać testerem MVP?",
+        "content": "Do programu wybieramy operatorów oraz firmy, które najlepiej pasują do scenariuszy testowych: operatorów mających przestrzeń magazynową do udostępnienia, firmy, które aktywnie poszukują elastycznych rozwiązań magazynowych. Selektujemy uczestników, aby testy były jak najbardziej efektywne i dopasowane do realnych potrzeb rynku."
+      },
+      "q4": {
+        "label": "Jak wygląda proces dołączenia do testów?",
+        "content": "Proces jest prosty i składa się z trzech kroków: - Zgłaszasz się poprzez krótki formularz i wybierasz swoją rolę (operator lub klient). - Otrzymujesz dostęp do wersji MVP oraz wsparcie w pierwszym logowaniu. - Testujesz platformę - rezerwujesz, wystawiasz oferty, zarządzasz kontraktami i dzielisz się opinią. Twoje uwagi bezpośrednio wpływają na rozwój platformy."
+      }
+    }
+  },
   "footer": {
     "simple_clear_on_demand": "Prosto. Przejrzyście. Na żądanie.",
     "about": "O nas",
