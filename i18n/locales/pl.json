@@ -6,6 +6,13 @@
     "faq": "FAQ"
   },
   "become_a_tester": "Zostań Testerem",
+  "cta": {
+    "title1": "Zarezerwuj usługę",
+    "title2": "magazynową",
+    "title3": "w kilka minut",
+    "description1": "Oszczędzaj czas i zwiększaj zyski,",
+    "description2": "korzystając z rezerwacji usług magazynowych on demand!"
+  },
   "faq": {
     "title": "FAQ",
     "description": "Zebraliśmy najczęstsze pytania, które pomagają zrozumieć, jak działa nasza platforma, na czym polega test MVP i co możesz zyskać, dołączając do programu.",
