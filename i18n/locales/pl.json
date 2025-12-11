@@ -6,6 +6,24 @@
     "faq": "FAQ"
   },
   "become_a_tester": "Zostań Testerem",
+  "selection": {
+    "title": "Jak wybieramy testerów MVP",
+    "subtitle": "Zapraszamy tylko te firmy, które najlepiej pasują do scenariuszy testowych - dzięki temu rozwijamy platformę w oparciu o realne potrzeby rynku.",
+    "cards": {
+      "blue": {
+        "title": "Zgłoś się do testów",
+        "description": "Wypełnij krótki formularz zgłoszeniowy. Po pozytywnej wstępnej ocenie otrzymasz zaproszenie na rozmowę z naszym zespołem, podczas której sprawdzimy dopasowanie i odpowiemy na Twoje pytania."
+      },
+      "orange": {
+        "title": "Odbierz dostęp i przejdź onboarding",
+        "description": "Po zakwalifikowaniu otrzymasz dostęp do platformy oraz krótki onboarding, który przeprowadzi Cię przez najważniejsze funkcje. Po wdrożeniu możesz od razu rozpocząć testowanie."
+      },
+      "gray": {
+        "title": "Testuj i podziel się feedbackiem",
+        "description": "Po zakończeniu onboardingu rozpoczniesz testowanie platformy, sprawdzając działanie kluczowych funkcji - takich jak dodawanie przestrzeni, wyszukiwanie i dodawanie ofert czy rezerwacja. Na koniec poprosimy Cię o szczegółowy feedback, który pomoże nam udoskonalić kolejne wersje Warehouse.Online."
+      }
+    }
+  },
   "cta": {
     "title1": "Zarezerwuj usługę",
     "title2": "magazynową",
