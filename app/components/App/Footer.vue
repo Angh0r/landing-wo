@@ -16,10 +16,10 @@
           {{ $t('footer.how_it_works') }}
         </NuxtLink>
         <NuxtLink
-          :to="$localePath({ name: 'index', hash: '#perks' })"
+          :to="$localePath({ name: 'index', hash: '#benefits' })"
           class="text-slate-500 hover:text-slate-700 transition-colors"
         >
-          {{ $t('footer.perks') }}
+          {{ $t('footer.benefits') }}
         </NuxtLink>
       </div>
       <div class="grid gap-3">

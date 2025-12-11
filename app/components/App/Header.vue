@@ -43,8 +43,8 @@ const localePath = useLocalePath()
 
 const items = computed(() => [
   {
-    label: $t('main_menu.perks'),
-    to: localePath({ name: 'index', hash: '#perks' }),
+    label: $t('main_menu.benefits'),
+    to: localePath({ name: 'index', hash: '#benefits' }),
   },
   {
     label: $t('main_menu.how_it_works'),

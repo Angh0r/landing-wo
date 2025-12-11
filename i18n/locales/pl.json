@@ -1,7 +1,7 @@
 {
   "app_name": "Warehouse Online",
   "main_menu": {
-    "perks": "Korzyści",
+    "benefits": "Korzyści",
     "how_it_works": "Jak to działa",
     "faq": "FAQ"
   },
@@ -79,7 +79,7 @@
     "simple_clear_on_demand": "Prosto. Przejrzyście. Na żądanie.",
     "about": "O nas",
     "how_it_works": "Jak to działa",
-    "perks": "@:main_menu.perks",
+    "benefits": "@:main_menu.benefits",
     "policies": "Polityka",
     "rules": "Regulamin",
     "faq": "@:main_menu.faq",
