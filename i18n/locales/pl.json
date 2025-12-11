@@ -1,0 +1,19 @@
+{
+  "app_name": "Warehouse Online",
+  "main_menu": {
+    "perks": "Korzyści",
+    "how_it_works": "Jak to działa",
+    "faq": "FAQ"
+  },
+  "become_a_tester": "Zostań Testerem",
+  "footer": {
+    "simple_clear_on_demand": "Prosto. Przejrzyście. Na żądanie.",
+    "about": "O nas",
+    "how_it_works": "Jak to działa",
+    "perks": "@:main_menu.perks",
+    "policies": "Polityka",
+    "rules": "Regulamin",
+    "faq": "@:main_menu.faq",
+    "copyright": "© {year} @:app_name{'.'} Wszelkie prawa zastrzeżone"
+  }
+}

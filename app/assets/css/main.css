@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+@import '@nuxt/ui';
+
+@theme static {
+  --color-brand-orange: oklch(0.701 0.15316 57.786);
+  --color-brand-blue: oklch(0.323 0.08142 254.549);
+
+  --font-sans: 'Lexend', sans-serif;
+}
