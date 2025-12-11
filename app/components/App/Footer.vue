@@ -23,7 +23,7 @@
         </NuxtLink>
       </div>
       <div class="grid gap-3">
-        <p class="text-black">{{ $t('footer.policy') }}</p>
+        <p class="text-black">{{ $t('footer.policies') }}</p>
         <NuxtLink
           :to="$localePath({ name: 'rules' })"
           class="text-slate-500 hover:text-slate-700 transition-colors"
