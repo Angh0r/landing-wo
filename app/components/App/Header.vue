@@ -16,23 +16,13 @@
       </NuxtLink>
     </div>
     <div class="flex gap-4 items-center">
-      <NuxtLink
-        :to="$localePath({ name: 'contact' })"
-        class="bg-brand-orange text-white px-6 py-3 rounded-full hidden md:block"
-      >
-        {{ $t('become_a_tester') }}
-      </NuxtLink>
+      <TesterButton class="hidden md:block" />
       <USlideover class="lg:hidden">
         <UButton icon="i-lucide-menu" color="neutral" variant="subtle" />
 
         <template #body>
           <div class="flex flex-col items-center gap-8">
-            <NuxtLink
-              :to="$localePath({ name: 'contact' })"
-              class="bg-brand-orange text-white px-6 py-3 rounded-full md:hidden"
-            >
-              {{ $t('become_a_tester') }}
-            </NuxtLink>
+            <TesterButton class="md:hidden" />
             <NuxtLink
               v-for="item in items"
               :key="item.label"

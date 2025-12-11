@@ -4,12 +4,7 @@
       <p class="text-black text-4xl font-semibold tracking-tighter">
         {{ $t('footer.simple_clear_on_demand') }}
       </p>
-      <NuxtLink
-        :to="$localePath({ name: 'contact' })"
-        class="bg-brand-orange text-white px-6 py-3 rounded-full"
-      >
-        {{ $t('become_a_tester') }}
-      </NuxtLink>
+      <TesterButton />
     </div>
     <div class="grid gap-8 md:grid-cols-2 text-lg font-semibold">
       <div class="grid gap-3">
