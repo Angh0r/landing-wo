@@ -1,5 +1,6 @@
 <template>
   <div>
+    <AboutUsSection />
     <SelectionSection />
     <CtaSection />
     <FaqSection />

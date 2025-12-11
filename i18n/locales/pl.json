@@ -6,6 +6,28 @@
     "faq": "FAQ"
   },
   "become_a_tester": "Zostań Testerem",
+  "about": {
+    "title": "Rozwiązanie jutra dostępne dla Ciebie już dziś!",
+    "subtitle": "Czyli dlaczego Warehouse.Online to prawdziwy game changer w branży logistycznej.",
+    "cards": {
+      "c1": {
+        "title": "Zobaczysz pełną cenę jeszcze przed rezerwacją!",
+        "description": "To jedna z największych przewag Warehouse.Online. Ustandaryzowaliśmy cennik usług logistycznych dzięki czemu natychmiast wiesz, ile zapłacisz. Bez przybliżony wycen i bez czekania."
+      },
+      "c2": {
+        "title": "Wystawiasz ofertę i rezerwujesz tak łatwo, jak nocleg",
+        "description": "Udostępnienie wolnej przestrzeni magazynowej zajmuje tylko kilka minut. Jej rezerwacja - również. Z Warehouse.Online kończysz z długimi procesami, telefonami i oczekiwaniem na potwierdzenia."
+      },
+      "c3": {
+        "title": "Masz wszystko w jednym miejscu",
+        "description": "Warehouse.Online to platforma, która docelowo porządkuje całą Twoją logistykę short-term. W jednym miejscu masz informacje o swoim towarze, dostępnej przestrzeni i warunkach współpracy z operatorem. Dzięki temu szybciej działasz, łatwiej się komunikujesz i sprawniej zarządzasz operacjami."
+      },
+      "c4": {
+        "title": "Maksymalizujesz zyski",
+        "description": "Warehouse.Online obsługuje kontrakty typu short-term. Nie zastępujemy tych długoterminowych – uzupełniamy je, dając Ci elastyczność i pomagając maksymalizować zysk z każdego m²."
+      }
+    }
+  },
   "selection": {
     "title": "Jak wybieramy testerów MVP",
     "subtitle": "Zapraszamy tylko te firmy, które najlepiej pasują do scenariuszy testowych - dzięki temu rozwijamy platformę w oparciu o realne potrzeby rynku.",
