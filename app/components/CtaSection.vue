@@ -1,7 +1,7 @@
 <template>
   <section class="px-4 lg:px-16 py-32 flex flex-col items-center gap-8">
     <div
-      class="flex flex-col items-center text-6xl font-black text-black uppercase tracking-tighter"
+      class="flex flex-col items-center text-4xl md:text-6xl font-black text-black uppercase tracking-tighter"
     >
       <p class="text-center animation-slide slide-right">
         {{ $t('cta.title1') }}<br />
