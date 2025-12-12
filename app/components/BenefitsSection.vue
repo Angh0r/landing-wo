@@ -1,5 +1,5 @@
 <template>
-  <section class="px-4 lg:px-16 py-32 grid gap-16 bg-slate-100" id="benefits">
+  <section id="benefits" class="px-4 lg:px-16 py-32 grid gap-16 bg-slate-100">
     <header>
       <SectionTitle>{{ $t('benefits.title') }}</SectionTitle>
       <SectionSubtitle>{{ $t('benefits.subtitle') }}</SectionSubtitle>
