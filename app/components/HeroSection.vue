@@ -8,7 +8,7 @@
         <div class="lg:w-3/5 grid gap-16">
           <div class="grid gap-8">
             <div
-              class="text-black uppercase font-black text-[clamp(2.5rem,calc(1rem+6vw),5rem)] leading-none flex flex-col items-center lg:items-start"
+              class="text-black uppercase font-black text-2xl md:text-[clamp(2.5rem,calc(1rem+6vw),5rem)] lg:text-[clamp(4rem,calc(1rem+5vw),5rem)] leading-none flex flex-col items-center lg:items-start"
             >
               <p>{{ $t('hero.title.line1') }}</p>
               <p>{{ $t('hero.title.line2') }}</p>
