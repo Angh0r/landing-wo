@@ -15,7 +15,7 @@ html {
 .animation-reveal {
   opacity: 0;
   animation: reveal linear forwards;
-  animation-timeline: view(60vh 0);
+  animation-timeline: view(70vh 0);
 }
 
 @keyframes reveal {

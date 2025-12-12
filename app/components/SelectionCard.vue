@@ -1,6 +1,6 @@
 <template>
   <div
-    class="grid grid-rows-subgrid row-span-3 rounded-2xl overflow-hidden p-6"
+    class="grid grid-rows-subgrid row-span-3 rounded-2xl overflow-hidden p-6 animation-reveal"
   >
     <div>
       <slot name="icon" />
