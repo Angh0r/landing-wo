@@ -9,7 +9,7 @@
       <NuxtLink
         v-for="item in items"
         :key="item.label"
-        :to="$localePath(item.to)"
+        :to="item.to"
         class="hover:text-brand-orange transition-colors"
       >
         {{ item.label }}
@@ -26,7 +26,7 @@
             <NuxtLink
               v-for="item in items"
               :key="item.label"
-              :to="$localePath(item.to)"
+              :to="item.to"
               class="hover:text-brand-orange transition-colors"
             >
               {{ item.label }}
