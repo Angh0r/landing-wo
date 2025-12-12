@@ -6,7 +6,12 @@
         {{ $t('about.subtitle') }}
       </SectionSubtitle>
     </header>
-    <div class="grid grid-cols-[auto_auto_1fr] gap-8 w-full max-w-4xl mx-auto">
+    <div
+      class="grid grid-cols-[auto_auto_1fr] gap-8 w-full max-w-4xl mx-auto relative"
+    >
+      <div
+        class="hidden md:block absolute left-4.5 inset-y-24 w-1 bg-black animation-scrollspy"
+      ></div>
       <AboutCard v-for="card in cards" :key="card.id" :card="card">
         <div class="absolute md:static -top-5 left-4">
           <div
@@ -68,4 +73,17 @@ const cards = computed(() => {
 })
 </script>
 
-<style lang="postcss" scoped></style>
+<style lang="postcss" scoped>
+.animation-scrollspy {
+  scale: 1 0;
+  transform-origin: top;
+  animation: scrollspy linear forwards;
+  animation-timeline: view(60vh 0px);
+}
+
+@keyframes scrollspy {
+  to {
+    scale: 1 1;
+  }
+}
+</style>
