@@ -38,16 +38,4 @@ defineProps<{
 }>()
 </script>
 
-<style lang="postcss" scoped>
-.animation-reveal {
-  opacity: 0;
-  animation: reveal linear forwards;
-  animation-timeline: view(60vh 0);
-}
-
-@keyframes reveal {
-  to {
-    opacity: 1;
-  }
-}
-</style>
+<style lang="postcss" scoped></style>
