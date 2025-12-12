@@ -1,5 +1,6 @@
 <template>
   <div>
+    <HeroSection id="hero" />
     <BenefitsSection id="benefits" />
     <AboutUsSection id="about-us" />
     <SelectionSection id="how-it-works" />
