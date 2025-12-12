@@ -10,14 +10,12 @@
             <div
               class="text-black uppercase font-black text-[clamp(2.5rem,calc(1rem+6vw),5rem)] leading-none flex flex-col items-center lg:items-start"
             >
-              <p>Booking</p>
-              <p>Usług</p>
-              <p>Magazynowych</p>
+              <p>{{ $t('hero.title.line1') }}</p>
+              <p>{{ $t('hero.title.line2') }}</p>
+              <p>{{ $t('hero.title.line3') }}</p>
             </div>
             <p class="text-2xl text-zinc-600">
-              Rezerwuj usługi magazynowe w kilka minut lub udostępnij wolne
-              miejsce – bez pośredników, z jasną ceną i pełną automatyzacją
-              procesu.
+              {{ $t('hero.subtitle') }}
             </p>
           </div>
           <div class="flex justify-center lg:justify-start">

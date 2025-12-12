@@ -6,6 +6,14 @@
     "faq": "FAQ"
   },
   "become_a_tester": "Zostań Testerem",
+  "hero": {
+    "title": {
+      "line1": "Booking",
+      "line2": "Usług",
+      "line3": "Magazynowych"
+    },
+    "subtitle": "Rezerwuj usługi magazynowe w kilka minut lub udostępnij wolne miejsce – bez pośredników, z jasną ceną i pełną automatyzacją procesu."
+  },
   "benefits": {
     "title": "Dlaczego warto dołączyć do testów Warehouse.Online?",
     "subtitle": "Zobacz jakie korzyści czekają na Ciebie gdy dołączysz do testów naszej platformy!",
