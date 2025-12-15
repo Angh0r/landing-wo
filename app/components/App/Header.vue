@@ -1,6 +1,6 @@
 <template>
   <header
-    class="bg-white shadow-sm sticky top-0 z-50 h-24 flex justify-between items-center px-4 lg:px-16"
+    class="bg-white shadow-lg sticky top-0 z-50 h-24 flex justify-between items-center px-4 lg:px-16"
   >
     <NuxtLink to="/">
       <SvgLogo class="h-10" />
