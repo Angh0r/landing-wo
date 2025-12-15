@@ -46,7 +46,7 @@
 
 <style lang="postcss" scoped>
 .animation-reveal-to-left {
-  animation: reveal-to-left 2s ease-in-out forwards;
+  animation: reveal-to-left 2s ease-out forwards;
 }
 
 .animation-show {
