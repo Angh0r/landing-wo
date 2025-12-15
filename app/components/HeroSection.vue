@@ -23,8 +23,10 @@
           </div>
         </div>
 
-        <NuxtImg
-          src="/img/mockup_macbook_magazyny.png"
+        <img
+          src="/img/mockup_macbook_magazyny.webp"
+          width="1008"
+          height="635"
           class="lg:object-cover h-auto lg:h-[70vh] w-full lg:overflow-visible lg:object-left"
         />
       </div>
