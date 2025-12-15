@@ -1,7 +1,7 @@
 <template>
   <div>
     <HeroSection id="hero" />
-    <BenefitsSection id="benefits" />
+    <BenefitsSection />
     <AboutUsSection id="about-us" />
     <SelectionSection id="how-it-works" />
     <CtaSection id="cta" />

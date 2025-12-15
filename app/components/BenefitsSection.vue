@@ -1,5 +1,5 @@
 <template>
-  <section id="benefits" class="px-4 lg:px-16 py-32 bg-slate-100 lg:h-[3000px]">
+  <section class="px-4 lg:px-16 py-32 bg-slate-100 lg:h-[3000px] relative">
     <div class="flex flex-col gap-16 sticky top-32">
       <header>
         <SectionTitle>{{ $t('benefits.title') }}</SectionTitle>
@@ -60,6 +60,10 @@
         </div>
       </div>
     </div>
+    <div
+      id="benefits"
+      class="absolute top-0 lg:top-auto lg:bottom-0 left-0 bg-transparent w-0 h-screen lg:h-[85vh]"
+    ></div>
   </section>
 </template>
 
