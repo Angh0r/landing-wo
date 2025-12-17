@@ -29,7 +29,7 @@
           src="/img/mockup_macbook_magazyny.webp"
           width="1008"
           height="635"
-          class="lg:object-cover h-auto lg:h-[70vh] w-full lg:overflow-visible lg:object-left animation-reveal-to-left show-500 opacity-0"
+          class="lg:object-cover h-auto lg:h-[50vh] w-full lg:overflow-visible lg:object-left animation-reveal-to-left show-500 opacity-0"
         />
       </div>
 
